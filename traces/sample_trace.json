@@ -1,0 +1,7 @@
+{
+  "transcript": "My refund is stuck and the bot said my account is locked.",
+  "intent": "billing_refund",
+  "confidence": 0.93,
+  "action": "resolve",
+  "resolution": "Verified the refund is pending settlement; informed the caller of the 24-hour resolution window."
+}

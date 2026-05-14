@@ -1,0 +1,14 @@
+{
+  "billing_refund": {
+    "requires_handoff": false,
+    "message": "Verified the refund is pending settlement; informed the caller of the 24-hour resolution window."
+  },
+  "account_access": {
+    "requires_handoff": true,
+    "message": "Account access issue requires identity verification by a live specialist."
+  },
+  "general_support": {
+    "requires_handoff": false,
+    "message": "Captured the issue and routed it to the standard support workflow."
+  }
+}
